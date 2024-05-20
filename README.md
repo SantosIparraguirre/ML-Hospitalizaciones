@@ -1,6 +1,6 @@
-# Proyecto-Integrador-ML-Salud
+# EN DESARROLLO
 
-### AÚN EN DESARROLLO
+## Proyecto-Integrador-ML-Salud
 
 Info del dataset:
 
